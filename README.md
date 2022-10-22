@@ -1,0 +1,2 @@
+# mathgraphics
+Need installed SFML.
